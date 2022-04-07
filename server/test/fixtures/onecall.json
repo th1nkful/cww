@@ -1,0 +1,30 @@
+{
+  "lat": -27.2225,
+  "lon": 153.0136,
+  "timezone": "Australia/Brisbane",
+  "timezone_offset": 36000,
+  "current": {
+    "dt": 1649331621,
+    "sunrise": 1649275201,
+    "sunset": 1649317203,
+    "temp": 21.69,
+    "feels_like": 21.82,
+    "pressure": 1015,
+    "humidity": 73,
+    "dew_point": 16.64,
+    "uvi": 0,
+    "clouds": 20,
+    "visibility": 10000,
+    "wind_speed": 3.05,
+    "wind_deg": 165,
+    "wind_gust": 8.09,
+    "weather": [
+      {
+        "id": 801,
+        "main": "Clouds",
+        "description": "few clouds",
+        "icon": "02n"
+      }
+    ]
+  }
+}
